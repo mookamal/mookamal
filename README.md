@@ -9,7 +9,7 @@ I care about clean architecture, systems that stay correct under concurrency, an
 ## Currently
 
 - Building the AI agent framework and Go backend for an AI-powered software creation platform (Spryvo) — multi-model agents (OpenAI, Anthropic), 20+ autonomous dev tools, isolated Docker sandboxes.
-- Building [BrilliantNode](https://brilliantnode.com), a SaaS website builder with a Go core API and a dedicated TypeScript SSR/publishing engine.
+- Building [BN](https://editor.brilliantnode.com/), a SaaS website builder with a Go core API and a dedicated TypeScript SSR/publishing engine.
 - Building [Velora](https://github.com/mookamal/velora), a self-hosted headless commerce engine in Go — single static binary, zero required external services, strict hexagonal architecture.
 
 ## Selected Projects
