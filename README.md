@@ -31,4 +31,4 @@ I care about clean architecture, systems that stay correct under concurrency, an
 
 ## Get in Touch
 
-[LinkedIn](https://www.linkedin.com/in/mohamed-kamal-8165251a7) · mohamed.kamal1996158@gmail.com
+
