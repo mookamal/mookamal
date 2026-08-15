@@ -1,4 +1,4 @@
-# M Kamal
+# Mohammed Kamal
 
 Full-Stack Software Engineer building production SaaS platforms — Go, Python (FastAPI/Django), and Next.js.
 
