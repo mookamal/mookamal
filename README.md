@@ -1,5 +1,4 @@
 # Mohammed Kamal
-
 Full-Stack Software Engineer building production SaaS platforms — Go, Python (FastAPI/Django), and Next.js.
 
 I care about clean architecture, systems that stay correct under concurrency, and owning a product end to end — from system design to CI/CD.
@@ -8,11 +7,14 @@ I care about clean architecture, systems that stay correct under concurrency, an
 
 ## Currently
 
+- Building [Orjanda](https://github.com/orjanda-framework/orjanda), an open-source Go framework for agent-native business applications — schema-driven document engine, auto-generated LLM agent tools, and a safety layer that gates execution behind human approval.
 - Building the AI agent framework and Go backend for an AI-powered software creation platform (Spryvo) — multi-model agents (OpenAI, Anthropic), 20+ autonomous dev tools, isolated Docker sandboxes.
 - Building [BN](https://editor.brilliantnode.com/), a SaaS website builder with a Go core API and a dedicated TypeScript SSR/publishing engine.
 - Building [Velora](https://github.com/mookamal/velora), a self-hosted headless commerce engine in Go — single static binary, zero required external services, strict hexagonal architecture.
 
 ## Selected Projects
+
+**[Orjanda](https://github.com/orjanda-framework/orjanda)** — Go framework for metadata-driven applications with native AI agents. Compiles declarative document schemas into a full stack (database, REST API, permissions, workflows), auto-generates agent tools from the same registry, and enforces role-based safety gates before any state-mutating action. [Docs](https://orjanda-docs.brilliantnode.com/)
 
 **[Velora](https://github.com/mookamal/velora)** — Self-hosted commerce engine in Go. Modular monolith, ports-and-adapters architecture, transaction-safe checkout under concurrency, database-backed job runner (no Redis/broker required). Fully documented via ADRs.
 
@@ -27,8 +29,6 @@ I care about clean architecture, systems that stay correct under concurrency, an
 **Backend:** Go · Python (FastAPI, Django) · REST APIs · GraphQL (Strawberry)
 **Frontend:** Next.js · React · TypeScript · Tailwind CSS
 **Data & Infra:** PostgreSQL · Redis · Docker · AWS · GCP · Terraform · GitHub Actions
-**AI:** OpenAI & Anthropic API integration, agentic tool-use systems
+**AI:** OpenAI & Anthropic API integration, agentic tool-use systems, LLM-driven developer tooling (Orjanda)
 
 ## Get in Touch
-
-
